@@ -13,7 +13,7 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
     </a> 
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/PowerBI/powerbi-docs/main/static/media/logo.svg" alt="Power BI" width="40" height="40"/> 
     </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
